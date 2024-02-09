@@ -18,7 +18,7 @@ const Owldemo1 = () => {
   return (
     <Slider {...settings}>
   <div>
-        <h3>1</h3>
+        <img src="./images/owlimg1.webp" alt="" />
       </div>
       <div>
         <h3>2</h3>
