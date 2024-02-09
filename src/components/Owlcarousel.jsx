@@ -18,7 +18,7 @@ const Owldemo1 = () => {
   return (
     <Slider {...settings}>
   <div>
-        <img src="./images/owlimg1.webp" alt="" />
+        <img src="./images/owlimg1.webp"style={{width:"100%",height:"200px"}} alt="" />
       </div>
       <div>
         <h3>2</h3>
