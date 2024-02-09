@@ -17,20 +17,23 @@ const Owldemo1 = () => {
       };
   return (
     <Slider {...settings}>
-      <div>
-        <img src="./images/Owlimg1.webp" alt="" style={{width:'100%'}} />
+  <div>
+        <h3>1</h3>
       </div>
       <div>
-      <img src="./images/Owlimg2.webp" alt="" style={{width:'100%'}}/>
+        <h3>2</h3>
       </div>
       <div>
-      <img src="./images/Owlimg3.webp" alt="" style={{width:'100%'}}/>
+        <h3>3</h3>
       </div>
       <div>
-      <img src="./images/Owlimg4.webp" alt="" style={{width:'100%'}}/>
+        <h3>4</h3>
       </div>
       <div>
-      <img src="./images/Owlimg5.webp" alt="" style={{width:'100%'}}/>
+        <h3>5</h3>
+      </div>
+      <div>
+        <h3>6</h3>
       </div>
     
     </Slider>
