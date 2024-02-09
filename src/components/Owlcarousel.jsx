@@ -2,7 +2,7 @@ import React from 'react'
 import Slider from "react-slick"
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { items } from './Data';
+import { imge } from './OwlImage';
 
 
 const Owldemo1 = () => {
@@ -18,24 +18,20 @@ const Owldemo1 = () => {
   return (
     <Slider {...settings}>
   <div>
-        <img src="./images/owlimg1.webp"style={{width:"100%",height:"200px"}} alt="" />
+        <img src={imge[0].url} alt="" width={{width:'100%'}} />
       </div>
       <div>
-        <h3>2</h3>
+      <img src={imge[1].url} alt="" width={{width:'100%'}}/>
       </div>
       <div>
-        <h3>3</h3>
+      <img src={imge[2].url} alt="" width={{width:'100%'}}/>
       </div>
       <div>
-        <h3>4</h3>
+      <img src={imge[3].url} alt="" width={{width:'100%'}}/>
       </div>
       <div>
-        <h3>5</h3>
+      <img src={imge[4].url} alt="" width={{width:'100%'}}/>
       </div>
-      <div>
-        <h3>6</h3>
-      </div>
-    
     </Slider>
   )
 }
