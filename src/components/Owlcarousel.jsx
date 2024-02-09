@@ -18,19 +18,19 @@ const Owldemo1 = () => {
   return (
     <Slider {...settings}>
   <div>
-        <img src={imge[0].url} alt="" width={{width:'100%'}} />
+        <img src={imge[0].url} alt="" style={{width:'100%'}} />
       </div>
       <div>
-      <img src={imge[1].url} alt="" width={{width:'100%'}}/>
+      <img src={imge[1].url} alt="" style={{width:'100%'}}/>
       </div>
       <div>
-      <img src={imge[2].url} alt="" width={{width:'100%'}}/>
+      <img src={imge[2].url} alt="" style={{width:'100%'}}/>
       </div>
       <div>
-      <img src={imge[3].url} alt="" width={{width:'100%'}}/>
+      <img src={imge[3].url} alt="" style={{width:'100%'}}/>
       </div>
       <div>
-      <img src={imge[4].url} alt="" width={{width:'100%'}}/>
+      <img src={imge[4].url} alt="" style={{width:'100%'}}/>
       </div>
     </Slider>
   )
