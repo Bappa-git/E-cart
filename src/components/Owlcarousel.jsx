@@ -21,16 +21,16 @@ const Owldemo1 = () => {
         <img src="../images/Owlimg2.webp/" alt="" width={{width:'100%'}} />
       </div>
       <div>
-      <img src="./images/Owlimg2.webp" alt="" width={{width:'100%'}}/>
+      <img src=".../images/Owlimg2.webp" alt="" width={{width:'100%'}}/>
       </div>
       <div>
-      <img src="./images/Owlimg3.webp" alt="" width={{width:'100%'}}/>
+      <img src="../images/Owlimg3.webp" alt="" width={{width:'100%'}}/>
       </div>
       <div>
-      <img src="./images/Owlimg4.webp" alt="" width={{width:'100%'}}/>
+      <img src="../images/Owlimg4.webp" alt="" width={{width:'100%'}}/>
       </div>
       <div>
-      <img src="./images/Owlimg5.webp" alt="" width={{width:'100%'}}/>
+      <img src="../images/Owlimg5.webp" alt="" width={{width:'100%'}}/>
       </div>
     
     </Slider>
