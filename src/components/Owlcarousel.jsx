@@ -18,7 +18,7 @@ const Owldemo1 = () => {
   return (
     <Slider {...settings}>
       <div>
-        <img src="./images/Owlimg1.webp" alt="" width={{width:'100%'}} />
+        <img src="../images/Owlimg2.webp/" alt="" width={{width:'100%'}} />
       </div>
       <div>
       <img src="./images/Owlimg2.webp" alt="" width={{width:'100%'}}/>
