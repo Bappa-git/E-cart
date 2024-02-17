@@ -9,8 +9,8 @@ const Footer = () => {
     <div className="container-fluid text-center text-md-left">
         <div className="row">
             <div className="col-md-6 mt-md-0 mt-3">
-                <h5 className="text-uppercase">Footer Content</h5>
-                <p>Here you can use rows and columns to organize your footer content.</p>
+                <h5 className="text-uppercase"> my Footer </h5>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore eos explicabo ab eaque omnis veritatis aut possimus qui numquam repudiandae excepturi, expedita maxime ipsum magni quasi? Magnam atque itaque corporis rem? Est, animi quo!.</p>
             </div>
 
             <hr className="clearfix w-100 d-md-none pb-0"/>
@@ -37,7 +37,7 @@ const Footer = () => {
         </div>
     </div>
 
-    <div className="footer-copyright text-center py-3">© 2020 Copyright: "Bappa D"
+    <div className="footer-copyright text-center py-3">© 2023 Copyright: "Bappa D"
        
     </div>
 
